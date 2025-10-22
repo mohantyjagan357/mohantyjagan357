@@ -14,14 +14,11 @@ Results-driven Backend Developer with 3+ years building scalable Java/Spring Boo
 <!-- Programming Languages -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 <!-- Frameworks & Libraries -->
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 <!-- Tools & Technologies -->
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
@@ -32,7 +29,6 @@ Results-driven Backend Developer with 3+ years building scalable Java/Spring Boo
 
 <!-- Cloud & DevOps -->
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 📊 GitHub Stats
@@ -44,17 +40,20 @@ Results-driven Backend Developer with 3+ years building scalable Java/Spring Boo
 
 ## 🏆 Featured Projects
 
-### 🛍️ ShopEasy Backend Application  
-A scalable e-commerce backend using Spring Boot 3.3 with JWT authentication, Razorpay integration, and comprehensive Swagger documentation.  
-[Source Code](https://github.com/mohantyjagan357/ShopEasy-Backend) 
+### 🛍️ E-Wallet Backend Application  
 
-### ✉️ Email Writer Assistant  
-Spring Boot service integrated with Google’s Gemini AI API for AI-powered email generation and a JavaScript Gmail extension for seamless integration.  
-[Source Code](https://github.com/mohantyjagan357/Smart-Email-Assistant-using-Gemini-AI)  
+An E-Wallet App based on Spring Boot including Micro-services Architecture. In order to use this application you may require few things like MySQL, Postman(to hit the end-points) in order to check the REST-API of my application.  
+[Source Code](https://github.com/mohantyjagan357/E-Wallet) 
+
+
+### ✉️ Group-Chatting-Application
+
+This a "Group Chatting Application". In order to use this you might require few things that are you mst have installed JDK in your system, you shold have good IDE like IntelliJ & a DB I'LL prefer MySQL. First you need to run the server Then the clients. 
+[Source Code](https://github.com/mohantyjagan357/Group-Chatting-Application)  
 
 ## 📝 Certifications
 
-- **Azure Fundamentals (AZ-900)** — Microsoft, Feb 2023  
+- 
 
 ## 📈 Contribution Graph
 <div align="center">
