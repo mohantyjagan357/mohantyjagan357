@@ -1,35 +1,91 @@
-![MasterHead](https://camo.githubusercontent.com/069e3ef2850e722ccaef748bf8cdadafeed9fd4a9ee1436daebd7e820f4402a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)
+<!-- Place at the TOP of your README.md -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving
+&color=0:00ffaa,40:7dfff4,70:a78bfa,100:f472b6
+&height=220
+&section=header
+&text=SOUMYA%20MOHANTY
+&fontSize=52
+&fontFamily=Orbitron
+&fontColor=ffffff
+&fontAlignY=38
+&animation=fadeIn
+&desc=DevOps%20Engineer%20%7C%20Java%20Developer%20%7C%20Cloud%20Native
+&descSize=16
+&descAlignY=58
+&descColor=7dfff4" />
+</p>
+<!-- Place at the BOTTOM of your README.md -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving
+&color=0:f472b6,40:a78bfa,70:7dfff4,100:00ffaa
+&height=120
+&section=footer" />
+</p>
 <div align="center">
   <h1>👋 Hello, I’m Soumya Mohanty</h1>
-  <p>Software Developer | Java · Spring Boot · Microservices · AWS</p>
+  <p>Software Engineer | Java · Spring Boot · Microservices · AWS</p>
   <!-- Make sure you upload a banner image named banner.png in the root of your GitHub profile repo -->
   <img src="Git Logo.gif" alt="Banner" width="100" height="100"/>
 </div>
 
 ## 🚀 About Me
-Results-driven Backend Developer with 3+ years building scalable Java/Spring Boot microservices.  
-🔭 Working on AI-powered backend services · 🌱 Learning ML & DevOps · 📫 mohantyjagan357@gmail.com
+Results-driven DevOps/Java Developer with 3+ years experience in building scalable Java/Spring Boot microservices, automating infrastructure, managing CI/CD pipelines, ensuring secure and scalable environments.  
+🔭 Working on AI-powered backend services · 🌱 Learning DevSecOps & MLOps· 📫 swagjaggy@gmail.com
 
 ## 🛠️ Tech Stack
 <!-- Programming Languages -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <!-- Frameworks & Libraries -->
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
 <!-- Tools & Technologies -->
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-00005F?style=for-the-badge&logo=putty&logoColor=white)
+![WinSCP](https://img.shields.io/badge/WinSCP-00A4EF?style=for-the-badge&logo=winscp&logoColor=white)
+
+
+<!-- Version Control -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
+
+
+<!-- Monitoring -->
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![xMatters](https://img.shields.io/badge/xMatters-4A90E2?style=for-the-badge&logoColor=white)
+![Jasper](https://img.shields.io/badge/Jasper-000000?style=for-the-badge&logoColor=white)
+
 
 <!-- Cloud & DevOps -->
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+
+<!-- Other Skills -->
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-8A2BE2?style=for-the-badge&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-E34F26?style=for-the-badge&logo=agile&logoColor=white)
+![Tuxedo](https://img.shields.io/badge/Oracle_Tuxedo-4D4D4D?style=for-the-badge&logo=oracle&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge&logo=openapi-initiative&logoColor=white)
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -81,7 +137,7 @@ This a "Group Chatting Application". In order to use this you might require few 
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/mohantyjagan357/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-  <a href="mailto:mohantyjagan357@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+  <a href="mailto:swagjaggy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 </div>
 
 > **Thanks for visiting!** 😊
