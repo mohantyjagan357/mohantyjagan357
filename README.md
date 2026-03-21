@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/mohantyjagan357.svg" alt="Soumya Mohanty" width="100%"/>
+  <img src="./assets/soumya_mohanty_masterhead.svg" alt="Soumya Mohanty" width="100%"/>
 </p>
 
 <div align="center">
