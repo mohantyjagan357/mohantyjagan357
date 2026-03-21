@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="./assets/soumya_mohanty_masterhead.svg" alt="Soumya Mohanty" width="100%"/>
+  <a href="https://mohantyjagan357.github.io/mohantyjagan357/">
+    <img src="./assets/soumya_mohanty_masterhead.svg" width="100%" alt="Soumya Mohanty"/>
+  </a>
 </p>
+
+> 🌐 **[View Full Portfolio →](https://mohantyjagan357.github.io/mohantyjagan357/)**
 
 <div align="center">
   <h1>👋 Hello, I’m Soumya Mohanty</h1>
