@@ -1,27 +1,7 @@
-<!-- Place at the TOP of your README.md -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving
-&color=0:00ffaa,40:7dfff4,70:a78bfa,100:f472b6
-&height=220
-&section=header
-&text=SOUMYA%20MOHANTY
-&fontSize=52
-&fontFamily=Orbitron
-&fontColor=ffffff
-&fontAlignY=38
-&animation=fadeIn
-&desc=DevOps%20Engineer%20%7C%20Java%20Developer%20%7C%20Cloud%20Native
-&descSize=16
-&descAlignY=58
-&descColor=7dfff4" />
+  <img src="./assets/mohantyjagan357.svg" alt="Soumya Mohanty" width="100%"/>
 </p>
-<!-- Place at the BOTTOM of your README.md -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving
-&color=0:f472b6,40:a78bfa,70:7dfff4,100:00ffaa
-&height=120
-&section=footer" />
-</p>
+
 <div align="center">
   <h1>👋 Hello, I’m Soumya Mohanty</h1>
   <p>Software Engineer | Java · Spring Boot · Microservices · AWS</p>
