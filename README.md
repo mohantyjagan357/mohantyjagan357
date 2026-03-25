@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://mohantyjagan357.github.io/mohantyjagan357/">
+  <a href="https://jaggy.dev/mohantyjagan357/">
     <img src="./assets/soumya_mohanty_masterhead.svg" width="100%" alt="Soumya Mohanty"/>
   </a>
 </p>
