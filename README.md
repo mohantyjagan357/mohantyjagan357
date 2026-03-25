@@ -4,7 +4,7 @@
   </a>
 </p>
 
-> 🌐 **[View Full Portfolio →](https://mohantyjagan357.github.io/mohantyjagan357/)**
+> 🌐 **[View Full Portfolio →](https:///jaggy.dev/mohantyjagan357/)**
 
 <div align="center">
   <h1>👋 Hello, I’m Soumya Mohanty</h1>
