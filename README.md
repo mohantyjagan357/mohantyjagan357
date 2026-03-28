@@ -121,7 +121,7 @@ This a "Group Chatting Application". In order to use this you might require few 
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/soumya-mohanty-r/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-  <a href="mailto:swagjaggy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+  <a href="mailto:soumyamohanty.bls@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 </div>
 
 > **Thanks for visiting!** 😊
